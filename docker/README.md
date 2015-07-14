@@ -26,3 +26,6 @@
 >    By point gzclient to container ip address in a new terminal
 
     export GAZEBO_MASTER_URI=http://<gzserver-ip-address-here>:11345
+
+See here for graphics debuging:
+http://wiki.ros.org/docker/Tutorials/GUI
